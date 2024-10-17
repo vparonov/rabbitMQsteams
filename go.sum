@@ -1,0 +1,4 @@
+github.com/rabbitmq/rabbitmq-stream-go-client v1.4.10 h1:1kDn/orisEbfMtxdZwWKpxX9+FahnzoRCuGCLZ66fAc=
+github.com/rabbitmq/rabbitmq-stream-go-client v1.4.10/go.mod h1:SdWsW0K5FVo8lIx0lCH17wh7RItXEQb8bfpxVlTVqS8=
+github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsTg=
+github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
